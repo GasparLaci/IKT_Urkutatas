@@ -19,3 +19,12 @@ body {
     background-color: #000;
     color: #fff;
   }
+
+  article {
+    margin-bottom: 20px;
+  }
+
+  img.small-image {
+    width: 45%;
+    margin: 0 10px;
+  }
